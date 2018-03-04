@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alien_Reich.Plugins", "Alien_Reich.Plugins.csproj", "{F38E3974-AD37-6A05-2812-F6F707DBCBD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alien_Reich", "Alien_Reich.csproj", "{0580AC9A-D94A-1AC0-73B0-456AD46AE1CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alien_Reich.Editor.Plugins", "Alien_Reich.Editor.Plugins.csproj", "{71D86B9C-2625-6A7A-BBC6-5371BAF3F0CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F38E3974-AD37-6A05-2812-F6F707DBCBD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F38E3974-AD37-6A05-2812-F6F707DBCBD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F38E3974-AD37-6A05-2812-F6F707DBCBD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F38E3974-AD37-6A05-2812-F6F707DBCBD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0580AC9A-D94A-1AC0-73B0-456AD46AE1CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0580AC9A-D94A-1AC0-73B0-456AD46AE1CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0580AC9A-D94A-1AC0-73B0-456AD46AE1CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0580AC9A-D94A-1AC0-73B0-456AD46AE1CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71D86B9C-2625-6A7A-BBC6-5371BAF3F0CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71D86B9C-2625-6A7A-BBC6-5371BAF3F0CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71D86B9C-2625-6A7A-BBC6-5371BAF3F0CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71D86B9C-2625-6A7A-BBC6-5371BAF3F0CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
